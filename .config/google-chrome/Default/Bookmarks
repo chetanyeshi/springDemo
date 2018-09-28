@@ -1,0 +1,144 @@
+{
+   "checksum": "3955579cb07ec3175836f47956acc3ef",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13165620419733080",
+            "id": "16",
+            "meta_info": {
+               "last_visited_desktop": "13180337641212219"
+            },
+            "name": "",
+            "sync_transaction_version": "4",
+            "type": "url",
+            "url": "https://github.com/wasabeef/awesome-android-ui/blob/master/art/Material.gif"
+         } ],
+         "date_added": "13182546765078355",
+         "date_modified": "13165620419733080",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13182546765078361",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "sync_transaction_version": "9",
+      "synced": {
+         "children": [ {
+            "date_added": "13151344998869215",
+            "id": "5",
+            "name": "Seminar Report on Jini Technology | 1000 Projects",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://googleweblight.com/i?u=http://1000projects.org/seminar-report-on-jini-technology.html&grqid=yPG5zjlq&hl=en-IN"
+         }, {
+            "date_added": "13147403700969932",
+            "id": "6",
+            "name": "Permutation and Combination - Aptitude Questions and Answers",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://googleweblight.com/i?u=https://www.indiabix.com/aptitude/permutation-and-combination/&grqid=hlmDhpi3&hl=en-IN"
+         }, {
+            "date_added": "13138817294014269",
+            "id": "7",
+            "name": "Registration",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.appost.in/gdsonline/Fee.aspx"
+         }, {
+            "date_added": "13143194589019892",
+            "id": "8",
+            "meta_info": {
+               "last_visited_desktop": "13143194589046616"
+            },
+            "name": "Index of Posts – Patrick's Software Blog",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.patricksoftwareblog.com/all-posts/"
+         }, {
+            "date_added": "13143205228624591",
+            "id": "9",
+            "meta_info": {
+               "last_visited_desktop": "13143205228624849"
+            },
+            "name": "Admin And User Login - PHP | Dream.In.Code",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.dreamincode.net/forums/topic/280138-admin-and-user-login/"
+         }, {
+            "date_added": "13151931484787550",
+            "id": "10",
+            "meta_info": {
+               "last_visited_desktop": "13151931484817009"
+            },
+            "name": "Text to speech",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://textspeech.blogspot.in/"
+         }, {
+            "date_added": "13165826136666198",
+            "id": "11",
+            "meta_info": {
+               "last_visited": "13177455466839909",
+               "last_visited_desktop": "13182514965964345"
+            },
+            "name": "Google",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.google.co.in/"
+         }, {
+            "date_added": "13165620219398408",
+            "id": "12",
+            "meta_info": {
+               "last_visited": "13165826259968089",
+               "last_visited_desktop": "13165620219405624"
+            },
+            "name": "GitHub - wasabeef/awesome-android-ui: A curated list of awesome Android UI/UX libraries",
+            "sync_transaction_version": "3",
+            "type": "url",
+            "url": "https://github.com/wasabeef/awesome-android-ui"
+         }, {
+            "date_added": "13180256748595462",
+            "id": "13",
+            "meta_info": {
+               "last_visited_desktop": "13180256780366340"
+            },
+            "name": "Tutorials - FastFoodCoding",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://fastfoodcoding.com/tutorials"
+         }, {
+            "date_added": "13180443713025454",
+            "id": "14",
+            "meta_info": {
+               "last_visited_desktop": "13180520229720802"
+            },
+            "name": "Online Aptitude Test | Aptitude Test Questions and Answers - Engineering Wave",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.enggwave.com/online-aptitude-test/"
+         }, {
+            "date_added": "13180541089667324",
+            "id": "15",
+            "meta_info": {
+               "last_visited_desktop": "13180541089668009"
+            },
+            "name": "MongoDB - Sort the Results of a Query",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.quackit.com/mongodb/tutorial/mongodb_sort_query_results.cfm"
+         } ],
+         "date_added": "13182546765078363",
+         "date_modified": "13182550714871891",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

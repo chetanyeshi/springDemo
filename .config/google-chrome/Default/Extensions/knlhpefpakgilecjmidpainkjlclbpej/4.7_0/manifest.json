@@ -1,0 +1,31 @@
+{
+   "background": {
+      "persistent": true,
+      "scripts": [ "jquery.min.js", "getToolsBar.js", "backmanager.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "way2sms_extension_icon_16.png",
+         "38": "way2sms_extension_icon_16.png"
+      },
+      "default_title": "Share this page via way2sms"
+   },
+   "content_scripts": [ {
+      "js": [ "jquery-2.2.3.min.js", "out.js", "getFcall.js" ],
+      "matches": [ "\u003Call_urls>" ]
+   } ],
+   "content_security_policy": "script-src 'self' 'unsafe-eval' https://www.google.com; object-src 'self'",
+   "description": "way2sms.com largest FREE messaging destination",
+   "icons": {
+      "128": "way2sms_extension_icon_128.png",
+      "16": "way2sms_extension_icon_16.png",
+      "48": "way2sms_extension_icon_48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvsgnZh2bN005mzz0vxjKBBFm80KnBZjp4bVrUQ0OS8Uo/36rUJ8CHmqD7KBhIWegFOepMDbga0uq3eFJ+VCXR7Jsr8RqXLaU8rxDQe/1CBw4nrWha+TNZ5KqlQFu17DhRkvy7x1QGapQorvGpRS0oHixMpGF+d37rOOI0t8N3x2fRysU84yXtEFzLYYDRc+/YqpTKxIKo5C59myZQN/c5BAfZlmoq+Zw1zZuAAY4AHE5/ZYOuqLB1ktOcbrC7pqmm9DAQ5f6sn/yjelgmBVTskpM11JlzXLYEkhWaMPlLyEo6pZ97YTxyHrJJAcNNFzCYTGaesS+SJFx49S+IyQXaQIDAQAB",
+   "manifest_version": 2,
+   "name": "way2sms",
+   "permissions": [ "\u003Call_urls>", "cookies", "storage", "tabs", "contextMenus", "activeTab", "webRequest" ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "4.7",
+   "web_accessible_resources": [ "way2sms_extension_icon_128.png" ]
+}

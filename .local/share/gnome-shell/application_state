@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="gnome-control-center.desktop" open-window-count="0" score="83" last-seen="1538077047"/>
+    <application id="org.gnome.FileRoller.desktop" open-window-count="0" score="2" last-seen="1538113819"/>
+    <application id="firefox.desktop" open-window-count="0" score="128" last-seen="1538073156"/>
+    <application id="org.gnome.Nautilus.desktop" open-window-count="1" score="7" last-seen="1538114025"/>
+    <application id="update-manager.desktop" open-window-count="0" score="2" last-seen="1538069606"/>
+    <application id="software-properties-gtk.desktop" open-window-count="0" score="6" last-seen="1538069776"/>
+    <application id="google-chrome.desktop" open-window-count="1" score="606" last-seen="1538114298"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="1007" last-seen="1538114307"/>
+    <application id="gnome-initial-setup.desktop" open-window-count="0" score="2" last-seen="1538053128"/>
+    <application id="org.gnome.Software.desktop" open-window-count="1" score="31" last-seen="1538114350"/>
+    <application id="chrome-fhbjgbiflinjbdggehcddcbncdddomop-Default.desktop" open-window-count="0" score="18" last-seen="1538076281"/>
+  </context>
+</application-state>
